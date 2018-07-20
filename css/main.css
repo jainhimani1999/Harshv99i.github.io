@@ -65,12 +65,12 @@ container{
 	text-align: center;
 	
 	h1{
-		font-size: 40px;
+		font-size: 20px;
 		transition-duration: 1s;
 		transition-timing-function: ease-in-put;
 		font-weight: 200;
 	}
-}
+
 
 form{
 	padding: 20px 0;
@@ -126,4 +126,5 @@ form{
 			background-color: rgb(245, 247, 249);
 		}
 	}
+}
 }
