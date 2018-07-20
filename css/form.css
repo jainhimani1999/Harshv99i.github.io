@@ -5,7 +5,7 @@
 .login{
 	position: absolute;
 	top: calc(30% );
-	left: calc(50% );
+	left: calc(50% -175px);
 	height: 150px;
 	width: 350px;
 	padding: 10px;
@@ -24,6 +24,7 @@
 	font-size: 16px;
 	font-weight: 400;
 	padding: 4px;
+	text-align: center;
 }
 
 .login input[type=password]{
@@ -38,6 +39,7 @@
 	font-weight: 400;
 	padding: 4px;
 	margin-top: 10px;
+	text-align: center;
 }
 
 .login input[type=button]{
