@@ -3,7 +3,7 @@
 
 
 .login{
-	position: relative;
+	position: absolute;
 	top: calc(35% );
 	left: 600px;
 	height: 40px;
