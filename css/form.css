@@ -3,15 +3,13 @@
 
 
 .login{
-	position: relative;
-	top: calc(30% );
-	left: calc(50% -175px);
-	height: 150px;
-	width: 350px;
-	padding: 10px;
-	z-index: 2;
-	margin-top: 10px;
-	
+    position: relative;
+    top: calc(50% );
+    left: calc(50% - 175px);
+    height: 150px;
+    width: 350px;
+    padding: 10px;
+    z-index: 2;
 }
 
 .login input[type=text]{
